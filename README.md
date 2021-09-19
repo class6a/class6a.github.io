@@ -1,5 +1,5 @@
-# class6a.github.io
-<!DOCTYPE html>
+
+
 <html>
     <head>
         <meta charset="utf-8">
@@ -41,9 +41,9 @@
     
     <h2 id="contents">Contents</h2>
     <ul>
-        <a href="#reminder"><li>Notices</a>
-        <a href="#mainnews"><li>Main News</a>
-        <a href="#event"><li>Events</a>
+        <a href="#reminder"><li>Notices
+        <a href="#mainnews"><li>Main News
+        <a href="#event"><li>Events
     </ul>
     <hr>
    
@@ -55,7 +55,7 @@
     <h3>Nothing yet...</h3>
     
     <h2 id="event">Events</h2>
-    <h3>Mid-autum festival/h3>
+    <h3>Mid-autum festival</h3>
     <hr>
     <h2>Our classmates</h2>
     <div class ="cm">
@@ -84,5 +84,4 @@
         <a href="#contents"><h2>Back to top</h2></a>
         <h4>copyright class 6a</h4>
 
-    </body>
-</html>
+   
